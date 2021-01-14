@@ -1,6 +1,9 @@
   .navbar-brand img{
     width: 50px;
   }
+  img{
+    width: 100%;
+  }
  /* my banner*/
 .my-banner{
   background: url(https://i.imgur.com/84zqERC.jpg) no-repeat center;
